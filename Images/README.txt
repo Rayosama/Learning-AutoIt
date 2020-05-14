@@ -1,0 +1,1 @@
+These were some sample screenshots I used. The targets in the game move constantly, so it can be hard to get a precise color you're hunting for. So I would take snapshots to be able to reference them for color ids whenever I needed, since I would utalize them often for the scripts I was making.
